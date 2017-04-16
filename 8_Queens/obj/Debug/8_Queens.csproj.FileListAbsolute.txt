@@ -1,0 +1,8 @@
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\bin\Debug\8_Queens.exe.config
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\bin\Debug\8_Queens.exe
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\bin\Debug\8_Queens.pdb
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\bin\Debug\Algoritm_AStars_BFS.dll
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\bin\Debug\Algoritm_AStars_BFS.pdb
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\obj\Debug\8_Queens.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\obj\Debug\8_Queens.exe
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_Queens\obj\Debug\8_Queens.pdb

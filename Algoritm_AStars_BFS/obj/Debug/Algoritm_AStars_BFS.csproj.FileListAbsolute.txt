@@ -1,0 +1,10 @@
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\Algoritm_AStars_BFS\bin\Debug\Algoritm_AStars_BFS.dll
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\Algoritm_AStars_BFS\bin\Debug\Algoritm_AStars_BFS.pdb
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.dll
+c:\users\igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\Algoritm_AStars_BFS\bin\Debug\Algoritm_AStars_BFS.dll
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\Algoritm_AStars_BFS\bin\Debug\Algoritm_AStars_BFS.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.csprojResolveAssemblyReference.cache
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.dll
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\Algoritm_AStars_BFS\obj\Debug\Algoritm_AStars_BFS.pdb

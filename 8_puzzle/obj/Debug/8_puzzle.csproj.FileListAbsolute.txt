@@ -1,0 +1,16 @@
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.exe.config
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.exe
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.pdb
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\bin\Debug\Algoritm_AStars_BFS.dll
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\bin\Debug\Algoritm_AStars_BFS.pdb
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.exe
+C:\Users\Igor\documents\visual studio 2013\Projects\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.exe.config
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.exe
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.exe
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\bin\Debug\8_puzzle.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\bin\Debug\Algoritm_AStars_BFS.dll
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\bin\Debug\Algoritm_AStars_BFS.pdb
+D:\Visual_Studio_2013_Project\Algoritm_AStars_BFS\8_puzzle\obj\Debug\8_puzzle.csprojResolveAssemblyReference.cache
